@@ -1,0 +1,213 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.first-header{
+  margin: auto;
+  display: flex;
+  background-color: bisque;
+  width:fit-content;
+  padding: 70px;
+  
+  
+}
+.sobi{
+  width: 150px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  margin-left: 60px;
+}
+
+.first-text p{
+  text-align: center; 
+}
+.first-text button{
+  margin-top: 20px;
+  margin-left: 50px;
+  padding:5px 50px 5px 50px;
+  background-color: bisque;
+
+}
+.first-header .icon{
+  display: flex;
+  margin-left: 60px; 
+  margin-top: 20px;
+  
+}
+.icon i{
+  padding: 10px;
+}
+.seconed{
+  margin: auto;
+  display: flex;
+  background-color: white;
+  width:fit-content;
+  padding: 70px;
+}
+.seconed-header{
+  padding-left: 150px;
+  margin-top: -85px;
+}
+.seconed-header p{
+  margin-top: -5px;
+}
+.seconed-header button{
+  margin-top: 40px;
+  margin-left: 0px;
+  padding:5px 50px 5px 50px;
+  background-color: bisque;
+}
+.seconed-header h1{
+  font-size: 40px;
+  width:fit-content;
+  padding: 70px;
+}
+.seconed-body .saiful{
+  width: 150px;
+  border-top-right-radius: 70px;
+  border-top-left-radius: 70px;
+
+ 
+}
+
+.seconed-body button{
+  margin-top: 40px;
+  margin-left: 0px;
+  padding:5px 50px 5px 50px;
+  background-color: #ffffff;
+
+}
+
+.seconed-body p{font-size: 10px;
+margin-left: 40px;}
+.seconed-body{
+  width: fit-content;
+  margin: auto;
+  padding: 70px;
+
+}
+.seconed-body .text-body{
+  padding-left: 380px;
+  margin-top: 30px;
+  
+}
+
+
+
+
+.seconed-body{
+  margin: auto;
+  display: flex;
+  background-color: white;
+  width: fit-content;
+  padding: 70px;
+
+
+}
+
+
+.about{
+  margin: auto;
+  display: flex;
+  background-color:white ;
+  width: fit-content;
+  padding: 70px;
+}
+.about .h{
+  
+}
+
+.about h1{
+  font-size: 40px;
+}
+
+
+
+.about div .libary{
+  width: 150px;
+  height: 300px;
+  margin-left: 230px;
+  margin-top: 30px;
+  border-radius: 30px 30px 30px 30px;
+}
+
+
+.hhh{
+  text-align: center;
+  margin: auto;
+  display: flex;
+  background-color: rgb(26, 96, 23);
+  color: white;
+  width:815px;
+  padding: 20px 70px 10px 70px;
+  margin-bottom: -20px;
+  
+
+}
+
+.hhh .hhhh{
+  margin-left: 322px;
+  
+}
+.hhh .hhhh h1{
+  
+  font-size: 40px;
+}
+
+
+
+.font{
+  
+  margin: auto;
+  background-color: rgb(26, 96, 23);
+  color: white;
+  width:815px;text-align: center;
+  
+  padding: 20px 70px 10px 70px;
+  margin-bottom: -20px;
+}
+
+
+
+.awesome{
+  margin-top: -0px;
+  margin: auto;
+  background-color: rgb(26, 96, 23);
+  color: white;
+  width:815px;
+  text-align: center;
+  padding: 10px 70px 10px 70px ;
+   
+  
+}
+
+.awesome .gud{
+  margin-left: 330px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  
+}
+
+.gud i{
+  padding: 10px;
+  
+}
+
+
+
+  .font h6{
+   
+    margin-bottom: -10px;
+   
+    
+  }
+
+    
+
+
+
+
+
